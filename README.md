@@ -1,3 +1,4 @@
 # miniProject01
 
-<a href="[#](https://arshil121.github.io/miniProject01/)">Live Project Link!</a>
+[Live Project Link](https://arshil121.github.io/miniProject01/)
+
