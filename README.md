@@ -3,7 +3,8 @@
 [Live Project Link](https://arshil121.github.io/miniProject01/)
 
 #Working Diagram
+![htmlDiagram](https://github.com/arshil121/miniProject01/assets/74753973/bdf326c9-69ae-4e59-8dd2-b38e4ab20337)
 
-![Capture](https://github.com/arshil121/miniProject01/assets/74753973/b7794ff5-55dd-46e6-9b9a-fa8ee026d044)
+
 
 
